@@ -1,0 +1,297 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "WBWebViewController"
+provides-nominal:
+- "C11WBBaiSiDemo19WBWebViewController"
+provides-member:
+- ["C11WBBaiSiDemo19WBWebViewController", ""]
+provides-dynamic-lookup:
+- "webView"
+- "url"
+- "viewDidLoad"
+depends-top-level:
+- "NSURLRequest"
+- "UIWebView"
+- "WBWebViewController"
+- "UIViewController"
+depends-member:
+- ["PSs9AnyObject", "UIWebView"]
+- !private ["PSs9AnyObject", "addSubview"]
+- !private ["PSs9AnyObject", "bounds"]
+- !private ["PSs9AnyObject", "frame"]
+- ["PSs9AnyObject", "init"]
+- !private ["PSs9AnyObject", "loadRequest"]
+- ["PSs9AnyObject", "url"]
+- !private ["PSs9AnyObject", "view"]
+- ["PSs9AnyObject", "viewDidLoad"]
+- ["PSs9AnyObject", "webView"]
+- ["PSs9AnyObject", ""]
+- ["PSs11CVarArgType", "UIWebView"]
+- !private ["PSs11CVarArgType", "addSubview"]
+- !private ["PSs11CVarArgType", "bounds"]
+- !private ["PSs11CVarArgType", "frame"]
+- ["PSs11CVarArgType", "init"]
+- !private ["PSs11CVarArgType", "loadRequest"]
+- ["PSs11CVarArgType", "url"]
+- !private ["PSs11CVarArgType", "view"]
+- ["PSs11CVarArgType", "viewDidLoad"]
+- ["PSs11CVarArgType", "webView"]
+- ["PSs11CVarArgType", ""]
+- ["PSs23CustomStringConvertible", "UIWebView"]
+- !private ["PSs23CustomStringConvertible", "addSubview"]
+- !private ["PSs23CustomStringConvertible", "bounds"]
+- !private ["PSs23CustomStringConvertible", "frame"]
+- ["PSs23CustomStringConvertible", "init"]
+- !private ["PSs23CustomStringConvertible", "loadRequest"]
+- ["PSs23CustomStringConvertible", "url"]
+- !private ["PSs23CustomStringConvertible", "view"]
+- ["PSs23CustomStringConvertible", "viewDidLoad"]
+- ["PSs23CustomStringConvertible", "webView"]
+- ["PSs23CustomStringConvertible", ""]
+- ["PSs9Equatable", "UIWebView"]
+- !private ["PSs9Equatable", "addSubview"]
+- !private ["PSs9Equatable", "bounds"]
+- !private ["PSs9Equatable", "frame"]
+- ["PSs9Equatable", "init"]
+- !private ["PSs9Equatable", "loadRequest"]
+- ["PSs9Equatable", "url"]
+- !private ["PSs9Equatable", "view"]
+- ["PSs9Equatable", "viewDidLoad"]
+- ["PSs9Equatable", "webView"]
+- ["PSs9Equatable", ""]
+- ["PSs8Hashable", "UIWebView"]
+- !private ["PSs8Hashable", "addSubview"]
+- !private ["PSs8Hashable", "bounds"]
+- !private ["PSs8Hashable", "frame"]
+- ["PSs8Hashable", "init"]
+- !private ["PSs8Hashable", "loadRequest"]
+- ["PSs8Hashable", "url"]
+- !private ["PSs8Hashable", "view"]
+- ["PSs8Hashable", "viewDidLoad"]
+- ["PSs8Hashable", "webView"]
+- ["PSs8Hashable", ""]
+- ["PSo8NSCoding", "UIWebView"]
+- !private ["PSo8NSCoding", "addSubview"]
+- !private ["PSo8NSCoding", "bounds"]
+- !private ["PSo8NSCoding", "frame"]
+- ["PSo8NSCoding", "init"]
+- !private ["PSo8NSCoding", "loadRequest"]
+- ["PSo8NSCoding", "url"]
+- !private ["PSo8NSCoding", "view"]
+- ["PSo8NSCoding", "viewDidLoad"]
+- ["PSo8NSCoding", "webView"]
+- ["PSo8NSCoding", ""]
+- ["PSo26NSExtensionRequestHandling", "UIWebView"]
+- ["PSo26NSExtensionRequestHandling", "init"]
+- ["PSo26NSExtensionRequestHandling", "url"]
+- !private ["PSo26NSExtensionRequestHandling", "view"]
+- ["PSo26NSExtensionRequestHandling", "viewDidLoad"]
+- ["PSo26NSExtensionRequestHandling", "webView"]
+- ["PSo26NSExtensionRequestHandling", ""]
+- ["CSo8NSObject", "NSURLRequest"]
+- ["CSo8NSObject", "UIWebView"]
+- !private ["CSo8NSObject", "addSubview"]
+- !private ["CSo8NSObject", "bounds"]
+- !private ["CSo8NSObject", "frame"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "loadRequest"]
+- ["CSo8NSObject", "url"]
+- !private ["CSo8NSObject", "view"]
+- ["CSo8NSObject", "viewDidLoad"]
+- ["CSo8NSObject", "webView"]
+- ["PSo16NSObjectProtocol", "UIWebView"]
+- !private ["PSo16NSObjectProtocol", "addSubview"]
+- !private ["PSo16NSObjectProtocol", "bounds"]
+- !private ["PSo16NSObjectProtocol", "frame"]
+- ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "loadRequest"]
+- ["PSo16NSObjectProtocol", "url"]
+- !private ["PSo16NSObjectProtocol", "view"]
+- ["PSo16NSObjectProtocol", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", "webView"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSo29UIAccessibilityIdentification", "addSubview"]
+- !private ["PSo29UIAccessibilityIdentification", "bounds"]
+- !private ["PSo29UIAccessibilityIdentification", "frame"]
+- ["PSo29UIAccessibilityIdentification", "init"]
+- !private ["PSo29UIAccessibilityIdentification", "loadRequest"]
+- !private ["PSo12UIAppearance", "addSubview"]
+- !private ["PSo12UIAppearance", "bounds"]
+- !private ["PSo12UIAppearance", "frame"]
+- ["PSo12UIAppearance", "init"]
+- !private ["PSo12UIAppearance", "loadRequest"]
+- ["PSo21UIAppearanceContainer", "UIWebView"]
+- !private ["PSo21UIAppearanceContainer", "addSubview"]
+- !private ["PSo21UIAppearanceContainer", "bounds"]
+- !private ["PSo21UIAppearanceContainer", "frame"]
+- ["PSo21UIAppearanceContainer", "init"]
+- !private ["PSo21UIAppearanceContainer", "loadRequest"]
+- ["PSo21UIAppearanceContainer", "url"]
+- !private ["PSo21UIAppearanceContainer", "view"]
+- ["PSo21UIAppearanceContainer", "viewDidLoad"]
+- ["PSo21UIAppearanceContainer", "webView"]
+- ["PSo21UIAppearanceContainer", ""]
+- ["PSo18UIContentContainer", "UIWebView"]
+- ["PSo18UIContentContainer", "init"]
+- ["PSo18UIContentContainer", "url"]
+- !private ["PSo18UIContentContainer", "view"]
+- ["PSo18UIContentContainer", "viewDidLoad"]
+- ["PSo18UIContentContainer", "webView"]
+- ["PSo18UIContentContainer", ""]
+- !private ["PSo17UICoordinateSpace", "addSubview"]
+- !private ["PSo17UICoordinateSpace", "bounds"]
+- !private ["PSo17UICoordinateSpace", "frame"]
+- ["PSo17UICoordinateSpace", "init"]
+- !private ["PSo17UICoordinateSpace", "loadRequest"]
+- !private ["PSo13UIDynamicItem", "addSubview"]
+- !private ["PSo13UIDynamicItem", "bounds"]
+- !private ["PSo13UIDynamicItem", "frame"]
+- ["PSo13UIDynamicItem", "init"]
+- !private ["PSo13UIDynamicItem", "loadRequest"]
+- ["PSo18UIFocusEnvironment", "UIWebView"]
+- !private ["PSo18UIFocusEnvironment", "addSubview"]
+- !private ["PSo18UIFocusEnvironment", "bounds"]
+- !private ["PSo18UIFocusEnvironment", "frame"]
+- ["PSo18UIFocusEnvironment", "init"]
+- !private ["PSo18UIFocusEnvironment", "loadRequest"]
+- ["PSo18UIFocusEnvironment", "url"]
+- !private ["PSo18UIFocusEnvironment", "view"]
+- ["PSo18UIFocusEnvironment", "viewDidLoad"]
+- ["PSo18UIFocusEnvironment", "webView"]
+- ["PSo18UIFocusEnvironment", ""]
+- ["CSo11UIResponder", "NSURLRequest"]
+- ["CSo11UIResponder", "UIWebView"]
+- !private ["CSo11UIResponder", "addSubview"]
+- !private ["CSo11UIResponder", "bounds"]
+- !private ["CSo11UIResponder", "frame"]
+- ["CSo11UIResponder", "init"]
+- !private ["CSo11UIResponder", "loadRequest"]
+- ["CSo11UIResponder", "url"]
+- !private ["CSo11UIResponder", "view"]
+- ["CSo11UIResponder", "viewDidLoad"]
+- ["CSo11UIResponder", "webView"]
+- !private ["PSo20UIScrollViewDelegate", "frame"]
+- ["PSo20UIScrollViewDelegate", "init"]
+- !private ["PSo20UIScrollViewDelegate", "loadRequest"]
+- ["PSo16UIStateRestoring", "UIWebView"]
+- ["PSo16UIStateRestoring", "init"]
+- ["PSo16UIStateRestoring", "url"]
+- !private ["PSo16UIStateRestoring", "view"]
+- ["PSo16UIStateRestoring", "viewDidLoad"]
+- ["PSo16UIStateRestoring", "webView"]
+- ["PSo16UIStateRestoring", ""]
+- ["PSo18UITraitEnvironment", "UIWebView"]
+- !private ["PSo18UITraitEnvironment", "addSubview"]
+- !private ["PSo18UITraitEnvironment", "bounds"]
+- !private ["PSo18UITraitEnvironment", "frame"]
+- ["PSo18UITraitEnvironment", "init"]
+- !private ["PSo18UITraitEnvironment", "loadRequest"]
+- ["PSo18UITraitEnvironment", "url"]
+- !private ["PSo18UITraitEnvironment", "view"]
+- ["PSo18UITraitEnvironment", "viewDidLoad"]
+- ["PSo18UITraitEnvironment", "webView"]
+- ["PSo18UITraitEnvironment", ""]
+- !private ["CSo6UIView", "addSubview"]
+- !private ["CSo6UIView", "bounds"]
+- !private ["CSo6UIView", "frame"]
+- ["CSo6UIView", "init"]
+- !private ["CSo6UIView", "loadRequest"]
+- ["CSo16UIViewController", "NSURLRequest"]
+- ["CSo16UIViewController", "UIWebView"]
+- ["CSo16UIViewController", "init"]
+- ["CSo16UIViewController", "url"]
+- !private ["CSo16UIViewController", "view"]
+- ["CSo16UIViewController", "viewDidLoad"]
+- ["CSo16UIViewController", "webView"]
+- ["CSo16UIViewController", ""]
+- !private ["CSo9UIWebView", "frame"]
+- ["CSo9UIWebView", "init"]
+- !private ["CSo9UIWebView", "loadRequest"]
+- ["C11WBBaiSiDemo19WBWebViewController", "NSURLRequest"]
+- ["C11WBBaiSiDemo19WBWebViewController", "UIWebView"]
+- ["C11WBBaiSiDemo19WBWebViewController", "deinit"]
+- ["C11WBBaiSiDemo19WBWebViewController", "init"]
+- ["C11WBBaiSiDemo19WBWebViewController", "url"]
+- !private ["C11WBBaiSiDemo19WBWebViewController", "view"]
+- ["C11WBBaiSiDemo19WBWebViewController", "viewDidLoad"]
+- ["C11WBBaiSiDemo19WBWebViewController", "webView"]
+- !private ["PSs12_Reflectable", "addSubview"]
+- !private ["PSs12_Reflectable", "bounds"]
+- !private ["PSs12_Reflectable", "frame"]
+- ["PSs12_Reflectable", "init"]
+- !private ["PSs12_Reflectable", "loadRequest"]
+depends-nominal:
+- "PSs9AnyObject"
+- "PSs11CVarArgType"
+- "PSs23CustomStringConvertible"
+- "PSs9Equatable"
+- "PSs8Hashable"
+- "PSo8NSCoding"
+- "PSo26NSExtensionRequestHandling"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "PSo29UIAccessibilityIdentification"
+- "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- "PSo18UIContentContainer"
+- "PSo17UICoordinateSpace"
+- "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- "CSo11UIResponder"
+- "PSo20UIScrollViewDelegate"
+- "PSo16UIStateRestoring"
+- "PSo18UITraitEnvironment"
+- "CSo6UIView"
+- "CSo16UIViewController"
+- "CSo9UIWebView"
+- "C11WBBaiSiDemo19WBWebViewController"
+- "PSs12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/Swift.swiftmodule"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/WBBaiSiDemo/WBBaiSiDemo-Bridging-Header.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/WBBaiSiDemo/SVProgressHUD/SVProgressHUD.h"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/CoreImage.swiftmodule"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Pods/DACircularProgress/DACircularProgress/DALabeledCircularProgressView.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Pods/DACircularProgress/DACircularProgress/DACircularProgressView.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/i386.swiftmodule"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/SwiftyJSON.framework/Headers/SwiftyJSON-umbrella.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/SwiftyJSON.framework/Modules/module.modulemap"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/Kingfisher.framework/Modules/Kingfisher.swiftmodule/i386.swiftmodule"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/Kingfisher.framework/Headers/Kingfisher-Swift.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/Kingfisher.framework/Headers/Kingfisher.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/Kingfisher.framework/Headers/Kingfisher-umbrella.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/Kingfisher.framework/Modules/module.modulemap"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/Alamofire.framework/Modules/Alamofire.swiftmodule/i386.swiftmodule"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/Alamofire.framework/Modules/module.modulemap"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefresh.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefreshNormalHeader.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefreshStateHeader.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefreshGifHeader.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefreshBackNormalFooter.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefreshBackStateFooter.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefreshBackGifFooter.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefreshAutoNormalFooter.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefreshAutoStateFooter.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefreshAutoGifFooter.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefreshHeader.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefreshBackFooter.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/UIScrollView+MJRefresh.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/UIScrollView+MJExtension.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/UIView+MJExtension.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefreshConst.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefreshComponent.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefreshFooter.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefreshAutoFooter.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefresh-umbrella.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Modules/module.modulemap"
+interface-hash: "3f81a4e77eca5e5c4b125a6b2127c8c9"

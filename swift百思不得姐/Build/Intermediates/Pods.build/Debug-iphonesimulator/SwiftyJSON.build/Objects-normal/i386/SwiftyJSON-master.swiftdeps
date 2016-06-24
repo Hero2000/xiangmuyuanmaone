@@ -1,0 +1,5 @@
+version: "Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81)"
+options: "32d5797fddd99909fcb3e714ca96340a"
+build_time: [508944318, 293171000]
+inputs:
+  "/Users/kengsir/Desktop/WBBaiSiDemo-master/Pods/SwiftyJSON/Source/SwiftyJSON.swift": [507847958, 0]

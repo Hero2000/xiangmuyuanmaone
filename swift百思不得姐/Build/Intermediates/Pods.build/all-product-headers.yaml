@@ -1,0 +1,278 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/Alamofire.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Alamofire-Swift.h",
+          'external-contents': "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/Alamofire.framework/Headers/Alamofire-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Alamofire-umbrella.h",
+          'external-contents': "/Users/kengsir/Desktop/WBBaiSiDemo-master/Pods/Target Support Files/Alamofire/Alamofire-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/Alamofire.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Intermediates/Pods.build/Debug-iphonesimulator/Alamofire.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/DACircularProgress.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "DACircularProgress-Swift.h",
+          'external-contents': "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/DACircularProgress.framework/Headers/DACircularProgress-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "DACircularProgress-umbrella.h",
+          'external-contents': "/Users/kengsir/Desktop/WBBaiSiDemo-master/Pods/Target Support Files/DACircularProgress/DACircularProgress-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "DACircularProgressView.h",
+          'external-contents': "/Users/kengsir/Desktop/WBBaiSiDemo-master/Pods/DACircularProgress/DACircularProgress/DACircularProgressView.h"
+        },
+        {
+          'type': 'file',
+          'name': "DALabeledCircularProgressView.h",
+          'external-contents': "/Users/kengsir/Desktop/WBBaiSiDemo-master/Pods/DACircularProgress/DACircularProgress/DALabeledCircularProgressView.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/DACircularProgress.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Intermediates/Pods.build/Debug-iphonesimulator/DACircularProgress.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/Kingfisher.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Kingfisher-Swift.h",
+          'external-contents': "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/Kingfisher.framework/Headers/Kingfisher-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Kingfisher-umbrella.h",
+          'external-contents': "/Users/kengsir/Desktop/WBBaiSiDemo-master/Pods/Target Support Files/Kingfisher/Kingfisher-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Kingfisher.h",
+          'external-contents': "/Users/kengsir/Desktop/WBBaiSiDemo-master/Pods/Kingfisher/Sources/Kingfisher.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/Kingfisher.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Intermediates/Pods.build/Debug-iphonesimulator/Kingfisher.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "MJRefresh-Swift.h",
+          'external-contents': "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefresh-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJRefresh-umbrella.h",
+          'external-contents': "/Users/kengsir/Desktop/WBBaiSiDemo-master/Pods/Target Support Files/MJRefresh/MJRefresh-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJRefresh.h",
+          'external-contents': "/Users/kengsir/Desktop/WBBaiSiDemo-master/Pods/MJRefresh/MJRefresh/MJRefresh.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJRefreshAutoFooter.h",
+          'external-contents': "/Users/kengsir/Desktop/WBBaiSiDemo-master/Pods/MJRefresh/MJRefresh/Base/MJRefreshAutoFooter.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJRefreshAutoGifFooter.h",
+          'external-contents': "/Users/kengsir/Desktop/WBBaiSiDemo-master/Pods/MJRefresh/MJRefresh/Custom/Footer/Auto/MJRefreshAutoGifFooter.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJRefreshAutoNormalFooter.h",
+          'external-contents': "/Users/kengsir/Desktop/WBBaiSiDemo-master/Pods/MJRefresh/MJRefresh/Custom/Footer/Auto/MJRefreshAutoNormalFooter.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJRefreshAutoStateFooter.h",
+          'external-contents': "/Users/kengsir/Desktop/WBBaiSiDemo-master/Pods/MJRefresh/MJRefresh/Custom/Footer/Auto/MJRefreshAutoStateFooter.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJRefreshBackFooter.h",
+          'external-contents': "/Users/kengsir/Desktop/WBBaiSiDemo-master/Pods/MJRefresh/MJRefresh/Base/MJRefreshBackFooter.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJRefreshBackGifFooter.h",
+          'external-contents': "/Users/kengsir/Desktop/WBBaiSiDemo-master/Pods/MJRefresh/MJRefresh/Custom/Footer/Back/MJRefreshBackGifFooter.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJRefreshBackNormalFooter.h",
+          'external-contents': "/Users/kengsir/Desktop/WBBaiSiDemo-master/Pods/MJRefresh/MJRefresh/Custom/Footer/Back/MJRefreshBackNormalFooter.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJRefreshBackStateFooter.h",
+          'external-contents': "/Users/kengsir/Desktop/WBBaiSiDemo-master/Pods/MJRefresh/MJRefresh/Custom/Footer/Back/MJRefreshBackStateFooter.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJRefreshComponent.h",
+          'external-contents': "/Users/kengsir/Desktop/WBBaiSiDemo-master/Pods/MJRefresh/MJRefresh/Base/MJRefreshComponent.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJRefreshConst.h",
+          'external-contents': "/Users/kengsir/Desktop/WBBaiSiDemo-master/Pods/MJRefresh/MJRefresh/MJRefreshConst.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJRefreshFooter.h",
+          'external-contents': "/Users/kengsir/Desktop/WBBaiSiDemo-master/Pods/MJRefresh/MJRefresh/Base/MJRefreshFooter.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJRefreshGifHeader.h",
+          'external-contents': "/Users/kengsir/Desktop/WBBaiSiDemo-master/Pods/MJRefresh/MJRefresh/Custom/Header/MJRefreshGifHeader.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJRefreshHeader.h",
+          'external-contents': "/Users/kengsir/Desktop/WBBaiSiDemo-master/Pods/MJRefresh/MJRefresh/Base/MJRefreshHeader.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJRefreshNormalHeader.h",
+          'external-contents': "/Users/kengsir/Desktop/WBBaiSiDemo-master/Pods/MJRefresh/MJRefresh/Custom/Header/MJRefreshNormalHeader.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJRefreshStateHeader.h",
+          'external-contents': "/Users/kengsir/Desktop/WBBaiSiDemo-master/Pods/MJRefresh/MJRefresh/Custom/Header/MJRefreshStateHeader.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIScrollView+MJExtension.h",
+          'external-contents': "/Users/kengsir/Desktop/WBBaiSiDemo-master/Pods/MJRefresh/MJRefresh/UIScrollView+MJExtension.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIScrollView+MJRefresh.h",
+          'external-contents': "/Users/kengsir/Desktop/WBBaiSiDemo-master/Pods/MJRefresh/MJRefresh/UIScrollView+MJRefresh.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIView+MJExtension.h",
+          'external-contents': "/Users/kengsir/Desktop/WBBaiSiDemo-master/Pods/MJRefresh/MJRefresh/UIView+MJExtension.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Intermediates/Pods.build/Debug-iphonesimulator/MJRefresh.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/Pods_WBBaiSiDemo.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-WBBaiSiDemo-umbrella.h",
+          'external-contents': "/Users/kengsir/Desktop/WBBaiSiDemo-master/Pods/Target Support Files/Pods-WBBaiSiDemo/Pods-WBBaiSiDemo-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_WBBaiSiDemo-Swift.h",
+          'external-contents': "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/Pods_WBBaiSiDemo.framework/Headers/Pods_WBBaiSiDemo-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/Pods_WBBaiSiDemo.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-WBBaiSiDemo.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/SwiftyJSON.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "SwiftyJSON-Swift.h",
+          'external-contents': "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SwiftyJSON-umbrella.h",
+          'external-contents': "/Users/kengsir/Desktop/WBBaiSiDemo-master/Pods/Target Support Files/SwiftyJSON/SwiftyJSON-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/SwiftyJSON.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Intermediates/Pods.build/Debug-iphonesimulator/SwiftyJSON.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

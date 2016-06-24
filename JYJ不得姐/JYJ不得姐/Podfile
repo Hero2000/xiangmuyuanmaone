@@ -1,0 +1,14 @@
+platform :ios, '7.0'
+use_frameworks!
+
+target 'JYJ不得姐' do
+pod 'MJExtension'
+pod 'MJRefresh'
+pod 'AFNetworking'
+pod 'SDWebImage'
+pod 'SVProgressHUD'
+pod 'DACircularProgress'
+pod 'pop'
+pod 'NJKWebViewProgress'
+end
+

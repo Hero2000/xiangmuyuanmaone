@@ -1,0 +1,1 @@
+ const unsigned char Pods_WBBaiSiDemoVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:Pods_WBBaiSiDemo  PROJECT:Pods-1" "\n"; const double Pods_WBBaiSiDemoVersionNumber __attribute__ ((used)) = (double)1.;

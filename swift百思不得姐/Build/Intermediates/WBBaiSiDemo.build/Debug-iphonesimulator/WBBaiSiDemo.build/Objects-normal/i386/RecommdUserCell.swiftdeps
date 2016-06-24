@@ -1,0 +1,531 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "RecommdUserCell"
+provides-nominal:
+- "C11WBBaiSiDemo15RecommdUserCell"
+provides-member:
+- ["C11WBBaiSiDemo15RecommdUserCell", ""]
+provides-dynamic-lookup:
+- "user"
+- "fanceLabel"
+- "nameLable"
+- "iconView"
+- "layoutSubviews"
+- "attentionBtn"
+depends-top-level:
+- !private "UIImage"
+- "UITableViewCell"
+- "User"
+- !private "StringLiteralType"
+- !private "NSURL"
+- !private "-"
+- "UILabel"
+- "UIImageView"
+- "UIButton"
+- "RecommdUserCell"
+depends-member:
+- !private ["PSs9AnyObject", "NSURL"]
+- !private ["PSs9AnyObject", "UIImage"]
+- ["PSs9AnyObject", "attentionBtn"]
+- ["PSs9AnyObject", "fanceLabel"]
+- !private ["PSs9AnyObject", "fans_count"]
+- !private ["PSs9AnyObject", "frame"]
+- !private ["PSs9AnyObject", "header"]
+- ["PSs9AnyObject", "iconView"]
+- ["PSs9AnyObject", "init"]
+- !private ["PSs9AnyObject", "kf_setImageWithURL"]
+- ["PSs9AnyObject", "layoutSubviews"]
+- ["PSs9AnyObject", "nameLable"]
+- !private ["PSs9AnyObject", "screen_name"]
+- !private ["PSs9AnyObject", "text"]
+- !private ["PSs9AnyObject", "textLabel"]
+- ["PSs9AnyObject", "user"]
+- ["PSs9AnyObject", ""]
+- !private ["Sb", "deinit"]
+- !private ["V12CoreGraphics7CGFloat", "deinit"]
+- !private ["VSC7CGPoint", "y"]
+- !private ["VSC6CGRect", "height"]
+- !private ["VSC6CGRect", "origin"]
+- !private ["VSC6CGRect", "size"]
+- !private ["VSC6CGSize", "height"]
+- !private ["PSs11CVarArgType", "NSURL"]
+- !private ["PSs11CVarArgType", "UIImage"]
+- ["PSs11CVarArgType", "attentionBtn"]
+- ["PSs11CVarArgType", "fanceLabel"]
+- !private ["PSs11CVarArgType", "fans_count"]
+- !private ["PSs11CVarArgType", "frame"]
+- !private ["PSs11CVarArgType", "header"]
+- ["PSs11CVarArgType", "iconView"]
+- ["PSs11CVarArgType", "init"]
+- !private ["PSs11CVarArgType", "kf_setImageWithURL"]
+- ["PSs11CVarArgType", "layoutSubviews"]
+- ["PSs11CVarArgType", "nameLable"]
+- !private ["PSs11CVarArgType", "screen_name"]
+- !private ["PSs11CVarArgType", "text"]
+- !private ["PSs11CVarArgType", "textLabel"]
+- ["PSs11CVarArgType", "user"]
+- ["PSs11CVarArgType", ""]
+- !private ["VSs9Character", "deinit"]
+- !private ["PSs10Comparable", "init"]
+- !private ["PSs28CustomDebugStringConvertible", "init"]
+- !private ["PSs23CustomStringConvertible", "NSURL"]
+- !private ["PSs23CustomStringConvertible", "UIImage"]
+- ["PSs23CustomStringConvertible", "attentionBtn"]
+- ["PSs23CustomStringConvertible", "fanceLabel"]
+- !private ["PSs23CustomStringConvertible", "fans_count"]
+- !private ["PSs23CustomStringConvertible", "frame"]
+- !private ["PSs23CustomStringConvertible", "header"]
+- ["PSs23CustomStringConvertible", "iconView"]
+- ["PSs23CustomStringConvertible", "init"]
+- !private ["PSs23CustomStringConvertible", "kf_setImageWithURL"]
+- ["PSs23CustomStringConvertible", "layoutSubviews"]
+- ["PSs23CustomStringConvertible", "nameLable"]
+- !private ["PSs23CustomStringConvertible", "screen_name"]
+- !private ["PSs23CustomStringConvertible", "text"]
+- !private ["PSs23CustomStringConvertible", "textLabel"]
+- ["PSs23CustomStringConvertible", "user"]
+- ["PSs23CustomStringConvertible", ""]
+- !private ["Sd", "deinit"]
+- !private ["PSs9Equatable", "NSURL"]
+- !private ["PSs9Equatable", "UIImage"]
+- ["PSs9Equatable", "attentionBtn"]
+- ["PSs9Equatable", "fanceLabel"]
+- !private ["PSs9Equatable", "fans_count"]
+- !private ["PSs9Equatable", "frame"]
+- !private ["PSs9Equatable", "header"]
+- !private ["PSs9Equatable", "height"]
+- ["PSs9Equatable", "iconView"]
+- ["PSs9Equatable", "init"]
+- !private ["PSs9Equatable", "kf_setImageWithURL"]
+- ["PSs9Equatable", "layoutSubviews"]
+- ["PSs9Equatable", "nameLable"]
+- !private ["PSs9Equatable", "origin"]
+- !private ["PSs9Equatable", "screen_name"]
+- !private ["PSs9Equatable", "size"]
+- !private ["PSs9Equatable", "text"]
+- !private ["PSs9Equatable", "textLabel"]
+- ["PSs9Equatable", "user"]
+- !private ["PSs9Equatable", "y"]
+- ["PSs9Equatable", ""]
+- !private ["PSs41ExtendedGraphemeClusterLiteralConvertible", "init"]
+- !private ["Sf", "deinit"]
+- !private ["PSs8Hashable", "NSURL"]
+- !private ["PSs8Hashable", "UIImage"]
+- ["PSs8Hashable", "attentionBtn"]
+- ["PSs8Hashable", "fanceLabel"]
+- !private ["PSs8Hashable", "fans_count"]
+- !private ["PSs8Hashable", "frame"]
+- !private ["PSs8Hashable", "header"]
+- ["PSs8Hashable", "iconView"]
+- ["PSs8Hashable", "init"]
+- !private ["PSs8Hashable", "kf_setImageWithURL"]
+- ["PSs8Hashable", "layoutSubviews"]
+- ["PSs8Hashable", "nameLable"]
+- !private ["PSs8Hashable", "screen_name"]
+- !private ["PSs8Hashable", "text"]
+- !private ["PSs8Hashable", "textLabel"]
+- ["PSs8Hashable", "user"]
+- ["PSs8Hashable", ""]
+- !private ["Si", "deinit"]
+- !private ["VSs5Int16", "deinit"]
+- !private ["VSs5Int32", "deinit"]
+- !private ["VSs5Int64", "deinit"]
+- !private ["VSs4Int8", "deinit"]
+- !private ["P10SwiftyJSON17JSONSubscriptType", "init"]
+- !private ["PSs14MirrorPathType", "init"]
+- !private ["PSo8NSCoding", "NSURL"]
+- !private ["PSo8NSCoding", "UIImage"]
+- ["PSo8NSCoding", "attentionBtn"]
+- ["PSo8NSCoding", "fanceLabel"]
+- !private ["PSo8NSCoding", "frame"]
+- ["PSo8NSCoding", "iconView"]
+- ["PSo8NSCoding", "init"]
+- !private ["PSo8NSCoding", "kf_setImageWithURL"]
+- ["PSo8NSCoding", "layoutSubviews"]
+- ["PSo8NSCoding", "nameLable"]
+- !private ["PSo8NSCoding", "text"]
+- !private ["PSo8NSCoding", "textLabel"]
+- ["PSo8NSCoding", "user"]
+- ["PSo8NSCoding", ""]
+- !private ["PSo9NSCopying", "init"]
+- !private ["PSo16NSMutableCopying", "init"]
+- !private ["CSo8NSObject", "NSURL"]
+- ["CSo8NSObject", "UIButton"]
+- !private ["CSo8NSObject", "UIImage"]
+- ["CSo8NSObject", "UIImageView"]
+- ["CSo8NSObject", "UILabel"]
+- ["CSo8NSObject", "User"]
+- ["CSo8NSObject", "attentionBtn"]
+- ["CSo8NSObject", "fanceLabel"]
+- !private ["CSo8NSObject", "fans_count"]
+- !private ["CSo8NSObject", "frame"]
+- !private ["CSo8NSObject", "header"]
+- ["CSo8NSObject", "iconView"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "kf_setImageWithURL"]
+- ["CSo8NSObject", "layoutSubviews"]
+- ["CSo8NSObject", "nameLable"]
+- !private ["CSo8NSObject", "screen_name"]
+- !private ["CSo8NSObject", "text"]
+- !private ["CSo8NSObject", "textLabel"]
+- ["CSo8NSObject", "user"]
+- !private ["PSo16NSObjectProtocol", "NSURL"]
+- !private ["PSo16NSObjectProtocol", "UIImage"]
+- ["PSo16NSObjectProtocol", "attentionBtn"]
+- ["PSo16NSObjectProtocol", "fanceLabel"]
+- !private ["PSo16NSObjectProtocol", "fans_count"]
+- !private ["PSo16NSObjectProtocol", "frame"]
+- !private ["PSo16NSObjectProtocol", "header"]
+- ["PSo16NSObjectProtocol", "iconView"]
+- ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "kf_setImageWithURL"]
+- ["PSo16NSObjectProtocol", "layoutSubviews"]
+- ["PSo16NSObjectProtocol", "nameLable"]
+- !private ["PSo16NSObjectProtocol", "screen_name"]
+- !private ["PSo16NSObjectProtocol", "text"]
+- !private ["PSo16NSObjectProtocol", "textLabel"]
+- ["PSo16NSObjectProtocol", "user"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSo14NSSecureCoding", "init"]
+- !private ["CSo8NSString", "init"]
+- !private ["CSo5NSURL", "init"]
+- !private ["Sq", "deinit"]
+- !private ["PSs16OutputStreamType", "init"]
+- !private ["C11WBBaiSiDemo15RecommdUserCell", "NSURL"]
+- ["C11WBBaiSiDemo15RecommdUserCell", "UIButton"]
+- !private ["C11WBBaiSiDemo15RecommdUserCell", "UIImage"]
+- ["C11WBBaiSiDemo15RecommdUserCell", "UIImageView"]
+- ["C11WBBaiSiDemo15RecommdUserCell", "UILabel"]
+- ["C11WBBaiSiDemo15RecommdUserCell", "User"]
+- !private ["C11WBBaiSiDemo15RecommdUserCell", "attentionBtn"]
+- ["C11WBBaiSiDemo15RecommdUserCell", "deinit"]
+- !private ["C11WBBaiSiDemo15RecommdUserCell", "fanceLabel"]
+- !private ["C11WBBaiSiDemo15RecommdUserCell", "iconView"]
+- ["C11WBBaiSiDemo15RecommdUserCell", "init"]
+- ["C11WBBaiSiDemo15RecommdUserCell", "layoutSubviews"]
+- !private ["C11WBBaiSiDemo15RecommdUserCell", "nameLable"]
+- !private ["C11WBBaiSiDemo15RecommdUserCell", "textLabel"]
+- ["C11WBBaiSiDemo15RecommdUserCell", "user"]
+- !private ["PSs10Streamable", "init"]
+- !private ["SS", "init"]
+- !private ["PSs30StringInterpolationConvertible", "init"]
+- !private ["PSs24StringLiteralConvertible", "init"]
+- !private ["PSo29UIAccessibilityIdentification", "NSURL"]
+- !private ["PSo29UIAccessibilityIdentification", "UIImage"]
+- ["PSo29UIAccessibilityIdentification", "attentionBtn"]
+- ["PSo29UIAccessibilityIdentification", "fanceLabel"]
+- !private ["PSo29UIAccessibilityIdentification", "frame"]
+- ["PSo29UIAccessibilityIdentification", "iconView"]
+- ["PSo29UIAccessibilityIdentification", "init"]
+- !private ["PSo29UIAccessibilityIdentification", "kf_setImageWithURL"]
+- ["PSo29UIAccessibilityIdentification", "layoutSubviews"]
+- ["PSo29UIAccessibilityIdentification", "nameLable"]
+- !private ["PSo29UIAccessibilityIdentification", "text"]
+- !private ["PSo29UIAccessibilityIdentification", "textLabel"]
+- ["PSo29UIAccessibilityIdentification", "user"]
+- ["PSo29UIAccessibilityIdentification", ""]
+- !private ["PSo12UIAppearance", "NSURL"]
+- !private ["PSo12UIAppearance", "UIImage"]
+- ["PSo12UIAppearance", "attentionBtn"]
+- ["PSo12UIAppearance", "fanceLabel"]
+- !private ["PSo12UIAppearance", "frame"]
+- ["PSo12UIAppearance", "iconView"]
+- ["PSo12UIAppearance", "init"]
+- !private ["PSo12UIAppearance", "kf_setImageWithURL"]
+- ["PSo12UIAppearance", "layoutSubviews"]
+- ["PSo12UIAppearance", "nameLable"]
+- !private ["PSo12UIAppearance", "text"]
+- !private ["PSo12UIAppearance", "textLabel"]
+- ["PSo12UIAppearance", "user"]
+- ["PSo12UIAppearance", ""]
+- !private ["PSo21UIAppearanceContainer", "NSURL"]
+- !private ["PSo21UIAppearanceContainer", "UIImage"]
+- ["PSo21UIAppearanceContainer", "attentionBtn"]
+- ["PSo21UIAppearanceContainer", "fanceLabel"]
+- !private ["PSo21UIAppearanceContainer", "frame"]
+- ["PSo21UIAppearanceContainer", "iconView"]
+- ["PSo21UIAppearanceContainer", "init"]
+- !private ["PSo21UIAppearanceContainer", "kf_setImageWithURL"]
+- ["PSo21UIAppearanceContainer", "layoutSubviews"]
+- ["PSo21UIAppearanceContainer", "nameLable"]
+- !private ["PSo21UIAppearanceContainer", "text"]
+- !private ["PSo21UIAppearanceContainer", "textLabel"]
+- ["PSo21UIAppearanceContainer", "user"]
+- ["PSo21UIAppearanceContainer", ""]
+- !private ["PSo17UICoordinateSpace", "NSURL"]
+- !private ["PSo17UICoordinateSpace", "UIImage"]
+- ["PSo17UICoordinateSpace", "attentionBtn"]
+- ["PSo17UICoordinateSpace", "fanceLabel"]
+- !private ["PSo17UICoordinateSpace", "frame"]
+- ["PSo17UICoordinateSpace", "iconView"]
+- ["PSo17UICoordinateSpace", "init"]
+- !private ["PSo17UICoordinateSpace", "kf_setImageWithURL"]
+- ["PSo17UICoordinateSpace", "layoutSubviews"]
+- ["PSo17UICoordinateSpace", "nameLable"]
+- !private ["PSo17UICoordinateSpace", "text"]
+- !private ["PSo17UICoordinateSpace", "textLabel"]
+- ["PSo17UICoordinateSpace", "user"]
+- ["PSo17UICoordinateSpace", ""]
+- !private ["PSo13UIDynamicItem", "NSURL"]
+- !private ["PSo13UIDynamicItem", "UIImage"]
+- ["PSo13UIDynamicItem", "attentionBtn"]
+- ["PSo13UIDynamicItem", "fanceLabel"]
+- !private ["PSo13UIDynamicItem", "frame"]
+- ["PSo13UIDynamicItem", "iconView"]
+- ["PSo13UIDynamicItem", "init"]
+- !private ["PSo13UIDynamicItem", "kf_setImageWithURL"]
+- ["PSo13UIDynamicItem", "layoutSubviews"]
+- ["PSo13UIDynamicItem", "nameLable"]
+- !private ["PSo13UIDynamicItem", "text"]
+- !private ["PSo13UIDynamicItem", "textLabel"]
+- ["PSo13UIDynamicItem", "user"]
+- ["PSo13UIDynamicItem", ""]
+- !private ["PSo18UIFocusEnvironment", "NSURL"]
+- !private ["PSo18UIFocusEnvironment", "UIImage"]
+- ["PSo18UIFocusEnvironment", "attentionBtn"]
+- ["PSo18UIFocusEnvironment", "fanceLabel"]
+- !private ["PSo18UIFocusEnvironment", "frame"]
+- ["PSo18UIFocusEnvironment", "iconView"]
+- ["PSo18UIFocusEnvironment", "init"]
+- !private ["PSo18UIFocusEnvironment", "kf_setImageWithURL"]
+- ["PSo18UIFocusEnvironment", "layoutSubviews"]
+- ["PSo18UIFocusEnvironment", "nameLable"]
+- !private ["PSo18UIFocusEnvironment", "text"]
+- !private ["PSo18UIFocusEnvironment", "textLabel"]
+- ["PSo18UIFocusEnvironment", "user"]
+- ["PSo18UIFocusEnvironment", ""]
+- !private ["PSo27UIGestureRecognizerDelegate", "NSURL"]
+- !private ["PSo27UIGestureRecognizerDelegate", "UIImage"]
+- ["PSo27UIGestureRecognizerDelegate", "attentionBtn"]
+- ["PSo27UIGestureRecognizerDelegate", "fanceLabel"]
+- ["PSo27UIGestureRecognizerDelegate", "iconView"]
+- ["PSo27UIGestureRecognizerDelegate", "init"]
+- ["PSo27UIGestureRecognizerDelegate", "layoutSubviews"]
+- ["PSo27UIGestureRecognizerDelegate", "nameLable"]
+- !private ["PSo27UIGestureRecognizerDelegate", "textLabel"]
+- ["PSo27UIGestureRecognizerDelegate", "user"]
+- ["PSo27UIGestureRecognizerDelegate", ""]
+- !private ["CSo7UIImage", "init"]
+- !private ["CSo11UIImageView", "kf_setImageWithURL"]
+- !private ["CSo7UILabel", "frame"]
+- !private ["CSo7UILabel", "text"]
+- !private ["CSo11UIResponder", "NSURL"]
+- ["CSo11UIResponder", "UIButton"]
+- !private ["CSo11UIResponder", "UIImage"]
+- ["CSo11UIResponder", "UIImageView"]
+- ["CSo11UIResponder", "UILabel"]
+- ["CSo11UIResponder", "User"]
+- ["CSo11UIResponder", "attentionBtn"]
+- ["CSo11UIResponder", "fanceLabel"]
+- !private ["CSo11UIResponder", "frame"]
+- ["CSo11UIResponder", "iconView"]
+- ["CSo11UIResponder", "init"]
+- !private ["CSo11UIResponder", "kf_setImageWithURL"]
+- ["CSo11UIResponder", "layoutSubviews"]
+- ["CSo11UIResponder", "nameLable"]
+- !private ["CSo11UIResponder", "text"]
+- !private ["CSo11UIResponder", "textLabel"]
+- ["CSo11UIResponder", "user"]
+- !private ["CSo15UITableViewCell", "NSURL"]
+- ["CSo15UITableViewCell", "UIButton"]
+- !private ["CSo15UITableViewCell", "UIImage"]
+- ["CSo15UITableViewCell", "UIImageView"]
+- ["CSo15UITableViewCell", "UILabel"]
+- ["CSo15UITableViewCell", "User"]
+- ["CSo15UITableViewCell", "attentionBtn"]
+- ["CSo15UITableViewCell", "fanceLabel"]
+- ["CSo15UITableViewCell", "iconView"]
+- ["CSo15UITableViewCell", "init"]
+- ["CSo15UITableViewCell", "layoutSubviews"]
+- ["CSo15UITableViewCell", "nameLable"]
+- !private ["CSo15UITableViewCell", "textLabel"]
+- ["CSo15UITableViewCell", "user"]
+- ["CSo15UITableViewCell", ""]
+- !private ["PSo18UITraitEnvironment", "NSURL"]
+- !private ["PSo18UITraitEnvironment", "UIImage"]
+- ["PSo18UITraitEnvironment", "attentionBtn"]
+- ["PSo18UITraitEnvironment", "fanceLabel"]
+- !private ["PSo18UITraitEnvironment", "frame"]
+- ["PSo18UITraitEnvironment", "iconView"]
+- ["PSo18UITraitEnvironment", "init"]
+- !private ["PSo18UITraitEnvironment", "kf_setImageWithURL"]
+- ["PSo18UITraitEnvironment", "layoutSubviews"]
+- ["PSo18UITraitEnvironment", "nameLable"]
+- !private ["PSo18UITraitEnvironment", "text"]
+- !private ["PSo18UITraitEnvironment", "textLabel"]
+- ["PSo18UITraitEnvironment", "user"]
+- ["PSo18UITraitEnvironment", ""]
+- !private ["CSo6UIView", "NSURL"]
+- ["CSo6UIView", "UIButton"]
+- !private ["CSo6UIView", "UIImage"]
+- ["CSo6UIView", "UIImageView"]
+- ["CSo6UIView", "UILabel"]
+- ["CSo6UIView", "User"]
+- ["CSo6UIView", "attentionBtn"]
+- ["CSo6UIView", "fanceLabel"]
+- !private ["CSo6UIView", "frame"]
+- ["CSo6UIView", "iconView"]
+- ["CSo6UIView", "init"]
+- !private ["CSo6UIView", "kf_setImageWithURL"]
+- ["CSo6UIView", "layoutSubviews"]
+- ["CSo6UIView", "nameLable"]
+- !private ["CSo6UIView", "text"]
+- !private ["CSo6UIView", "textLabel"]
+- ["CSo6UIView", "user"]
+- !private ["Su", "deinit"]
+- !private ["VSs6UInt16", "deinit"]
+- !private ["VSs6UInt32", "deinit"]
+- !private ["VSs6UInt64", "deinit"]
+- !private ["VSs5UInt8", "deinit"]
+- !private ["P9Alamofire20URLStringConvertible", "init"]
+- !private ["Sc", "deinit"]
+- !private ["PSs31UnicodeScalarLiteralConvertible", "init"]
+- !private ["C11WBBaiSiDemo4User", "fans_count"]
+- !private ["C11WBBaiSiDemo4User", "header"]
+- !private ["C11WBBaiSiDemo4User", "screen_name"]
+- !private ["PSs49_BuiltinExtendedGraphemeClusterLiteralConvertible", "init"]
+- !private ["PSs32_BuiltinStringLiteralConvertible", "init"]
+- !private ["PSs37_BuiltinUTF16StringLiteralConvertible", "init"]
+- !private ["PSs39_BuiltinUnicodeScalarLiteralConvertible", "init"]
+- !private ["PSs16_CocoaStringType", "init"]
+- !private ["PSs32_FileReferenceLiteralConvertible", "init"]
+- !private ["PSs24_ImageLiteralConvertible", "init"]
+- !private ["PSs21_ObjectiveCBridgeable", "init"]
+- !private ["PSs12_Reflectable", "NSURL"]
+- !private ["PSs12_Reflectable", "UIImage"]
+- ["PSs12_Reflectable", "attentionBtn"]
+- ["PSs12_Reflectable", "fanceLabel"]
+- !private ["PSs12_Reflectable", "frame"]
+- !private ["PSs12_Reflectable", "height"]
+- ["PSs12_Reflectable", "iconView"]
+- ["PSs12_Reflectable", "init"]
+- !private ["PSs12_Reflectable", "kf_setImageWithURL"]
+- ["PSs12_Reflectable", "layoutSubviews"]
+- ["PSs12_Reflectable", "nameLable"]
+- !private ["PSs12_Reflectable", "origin"]
+- !private ["PSs12_Reflectable", "size"]
+- !private ["PSs12_Reflectable", "text"]
+- !private ["PSs12_Reflectable", "textLabel"]
+- ["PSs12_Reflectable", "user"]
+- !private ["PSs12_Reflectable", "y"]
+- ["PSs12_Reflectable", ""]
+depends-nominal:
+- "PSs9AnyObject"
+- !private "Sb"
+- !private "V12CoreGraphics7CGFloat"
+- !private "VSC7CGPoint"
+- !private "VSC6CGRect"
+- !private "VSC6CGSize"
+- "PSs11CVarArgType"
+- !private "VSs9Character"
+- !private "PSs10Comparable"
+- !private "PSs28CustomDebugStringConvertible"
+- "PSs23CustomStringConvertible"
+- !private "Sd"
+- "PSs9Equatable"
+- !private "PSs41ExtendedGraphemeClusterLiteralConvertible"
+- !private "Sf"
+- "PSs8Hashable"
+- !private "Si"
+- !private "VSs5Int16"
+- !private "VSs5Int32"
+- !private "VSs5Int64"
+- !private "VSs4Int8"
+- !private "P10SwiftyJSON17JSONSubscriptType"
+- !private "PSs14MirrorPathType"
+- "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- !private "PSo16NSMutableCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- !private "CSo8NSString"
+- !private "CSo5NSURL"
+- !private "Sq"
+- !private "PSs16OutputStreamType"
+- "C11WBBaiSiDemo15RecommdUserCell"
+- !private "PSs10Streamable"
+- !private "SS"
+- !private "PSs30StringInterpolationConvertible"
+- !private "PSs24StringLiteralConvertible"
+- "PSo29UIAccessibilityIdentification"
+- "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- "PSo17UICoordinateSpace"
+- "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- "PSo27UIGestureRecognizerDelegate"
+- !private "CSo7UIImage"
+- !private "CSo11UIImageView"
+- !private "CSo7UILabel"
+- "CSo11UIResponder"
+- "CSo15UITableViewCell"
+- "PSo18UITraitEnvironment"
+- "CSo6UIView"
+- !private "Su"
+- !private "VSs6UInt16"
+- !private "VSs6UInt32"
+- !private "VSs6UInt64"
+- !private "VSs5UInt8"
+- !private "P9Alamofire20URLStringConvertible"
+- !private "Sc"
+- !private "PSs31UnicodeScalarLiteralConvertible"
+- !private "C11WBBaiSiDemo4User"
+- !private "PSs49_BuiltinExtendedGraphemeClusterLiteralConvertible"
+- !private "PSs32_BuiltinStringLiteralConvertible"
+- !private "PSs37_BuiltinUTF16StringLiteralConvertible"
+- !private "PSs39_BuiltinUnicodeScalarLiteralConvertible"
+- !private "PSs16_CocoaStringType"
+- !private "PSs32_FileReferenceLiteralConvertible"
+- !private "PSs24_ImageLiteralConvertible"
+- !private "PSs21_ObjectiveCBridgeable"
+- "PSs12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/Swift.swiftmodule"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/WBBaiSiDemo/WBBaiSiDemo-Bridging-Header.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/WBBaiSiDemo/SVProgressHUD/SVProgressHUD.h"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/CoreImage.swiftmodule"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Pods/DACircularProgress/DACircularProgress/DALabeledCircularProgressView.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Pods/DACircularProgress/DACircularProgress/DACircularProgressView.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/i386.swiftmodule"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/SwiftyJSON.framework/Headers/SwiftyJSON-umbrella.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/SwiftyJSON.framework/Modules/module.modulemap"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/Kingfisher.framework/Modules/Kingfisher.swiftmodule/i386.swiftmodule"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/Kingfisher.framework/Headers/Kingfisher-Swift.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/Kingfisher.framework/Headers/Kingfisher.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/Kingfisher.framework/Headers/Kingfisher-umbrella.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/Kingfisher.framework/Modules/module.modulemap"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/Alamofire.framework/Modules/Alamofire.swiftmodule/i386.swiftmodule"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/Alamofire.framework/Modules/module.modulemap"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefresh.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefreshNormalHeader.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefreshStateHeader.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefreshGifHeader.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefreshBackNormalFooter.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefreshBackStateFooter.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefreshBackGifFooter.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefreshAutoNormalFooter.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefreshAutoStateFooter.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefreshAutoGifFooter.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefreshHeader.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefreshBackFooter.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/UIScrollView+MJRefresh.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/UIScrollView+MJExtension.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/UIView+MJExtension.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefreshConst.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefreshComponent.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefreshFooter.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefreshAutoFooter.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefresh-umbrella.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Modules/module.modulemap"
+interface-hash: "242ae0b1b0f9a81cf60bcc832282902d"

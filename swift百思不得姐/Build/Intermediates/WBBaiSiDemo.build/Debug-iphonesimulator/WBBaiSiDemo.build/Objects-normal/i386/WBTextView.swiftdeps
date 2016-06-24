@@ -1,0 +1,392 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "WBTextView"
+provides-nominal:
+- "C11WBBaiSiDemo10WBTextView"
+provides-member:
+- ["C11WBBaiSiDemo10WBTextView", ""]
+provides-dynamic-lookup:
+- "resignFirstResponder"
+- "becomeFirstResponder"
+depends-top-level:
+- "Bool"
+- "UITextField"
+- !private "UIColor"
+- "WBTextView"
+- !private "AnyObject"
+- !private "NSAttributedString"
+- !private "Dictionary"
+- !private "NSForegroundColorAttributeName"
+depends-member:
+- !private ["PSs9AnyObject", "NSAttributedString"]
+- !private ["PSs9AnyObject", "NSForegroundColorAttributeName"]
+- !private ["PSs9AnyObject", "UIColor"]
+- !private ["PSs9AnyObject", "attributedPlaceholder"]
+- ["PSs9AnyObject", "becomeFirstResponder"]
+- !private ["PSs9AnyObject", "grayColor"]
+- ["PSs9AnyObject", "init"]
+- !private ["PSs9AnyObject", "placeholder"]
+- ["PSs9AnyObject", "resignFirstResponder"]
+- !private ["PSs9AnyObject", "textColor"]
+- ["PSs9AnyObject", ""]
+- !private ["PSs11CVarArgType", "NSAttributedString"]
+- !private ["PSs11CVarArgType", "NSForegroundColorAttributeName"]
+- !private ["PSs11CVarArgType", "UIColor"]
+- !private ["PSs11CVarArgType", "attributedPlaceholder"]
+- ["PSs11CVarArgType", "becomeFirstResponder"]
+- !private ["PSs11CVarArgType", "grayColor"]
+- ["PSs11CVarArgType", "init"]
+- !private ["PSs11CVarArgType", "placeholder"]
+- ["PSs11CVarArgType", "resignFirstResponder"]
+- !private ["PSs11CVarArgType", "textColor"]
+- ["PSs11CVarArgType", ""]
+- !private ["PSs14CollectionType", "Key"]
+- !private ["PSs14CollectionType", "Value"]
+- !private ["PSs28CustomDebugStringConvertible", "Key"]
+- !private ["PSs28CustomDebugStringConvertible", "Value"]
+- !private ["PSs23CustomStringConvertible", "Key"]
+- !private ["PSs23CustomStringConvertible", "NSAttributedString"]
+- !private ["PSs23CustomStringConvertible", "NSForegroundColorAttributeName"]
+- !private ["PSs23CustomStringConvertible", "UIColor"]
+- !private ["PSs23CustomStringConvertible", "Value"]
+- !private ["PSs23CustomStringConvertible", "attributedPlaceholder"]
+- ["PSs23CustomStringConvertible", "becomeFirstResponder"]
+- !private ["PSs23CustomStringConvertible", "grayColor"]
+- ["PSs23CustomStringConvertible", "init"]
+- !private ["PSs23CustomStringConvertible", "placeholder"]
+- ["PSs23CustomStringConvertible", "resignFirstResponder"]
+- !private ["PSs23CustomStringConvertible", "textColor"]
+- ["PSs23CustomStringConvertible", ""]
+- !private ["VSs10Dictionary", "Key"]
+- !private ["VSs10Dictionary", "Value"]
+- !private ["PSs28DictionaryLiteralConvertible", "Key"]
+- !private ["PSs28DictionaryLiteralConvertible", "Value"]
+- !private ["PSs9Equatable", "NSAttributedString"]
+- !private ["PSs9Equatable", "NSForegroundColorAttributeName"]
+- !private ["PSs9Equatable", "UIColor"]
+- !private ["PSs9Equatable", "attributedPlaceholder"]
+- ["PSs9Equatable", "becomeFirstResponder"]
+- !private ["PSs9Equatable", "grayColor"]
+- ["PSs9Equatable", "init"]
+- !private ["PSs9Equatable", "placeholder"]
+- ["PSs9Equatable", "resignFirstResponder"]
+- !private ["PSs9Equatable", "textColor"]
+- ["PSs9Equatable", ""]
+- !private ["PSs8Hashable", "NSAttributedString"]
+- !private ["PSs8Hashable", "NSForegroundColorAttributeName"]
+- !private ["PSs8Hashable", "UIColor"]
+- !private ["PSs8Hashable", "attributedPlaceholder"]
+- ["PSs8Hashable", "becomeFirstResponder"]
+- !private ["PSs8Hashable", "grayColor"]
+- ["PSs8Hashable", "init"]
+- !private ["PSs8Hashable", "placeholder"]
+- ["PSs8Hashable", "resignFirstResponder"]
+- !private ["PSs8Hashable", "textColor"]
+- ["PSs8Hashable", ""]
+- !private ["PSs9Indexable", "Key"]
+- !private ["PSs9Indexable", "Value"]
+- !private ["CSo18NSAttributedString", "init"]
+- !private ["PSo8NSCoding", "NSAttributedString"]
+- !private ["PSo8NSCoding", "NSForegroundColorAttributeName"]
+- !private ["PSo8NSCoding", "UIColor"]
+- !private ["PSo8NSCoding", "attributedPlaceholder"]
+- ["PSo8NSCoding", "becomeFirstResponder"]
+- !private ["PSo8NSCoding", "grayColor"]
+- ["PSo8NSCoding", "init"]
+- !private ["PSo8NSCoding", "placeholder"]
+- ["PSo8NSCoding", "resignFirstResponder"]
+- !private ["PSo8NSCoding", "textColor"]
+- ["PSo8NSCoding", ""]
+- !private ["PSo9NSCopying", "grayColor"]
+- !private ["PSo9NSCopying", "init"]
+- !private ["PSo16NSMutableCopying", "init"]
+- !private ["CSo8NSObject", "AnyObject"]
+- ["CSo8NSObject", "Bool"]
+- !private ["CSo8NSObject", "NSAttributedString"]
+- !private ["CSo8NSObject", "NSForegroundColorAttributeName"]
+- !private ["CSo8NSObject", "UIColor"]
+- !private ["CSo8NSObject", "attributedPlaceholder"]
+- ["CSo8NSObject", "becomeFirstResponder"]
+- !private ["CSo8NSObject", "grayColor"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "placeholder"]
+- ["CSo8NSObject", "resignFirstResponder"]
+- !private ["CSo8NSObject", "textColor"]
+- !private ["PSo16NSObjectProtocol", "NSAttributedString"]
+- !private ["PSo16NSObjectProtocol", "NSForegroundColorAttributeName"]
+- !private ["PSo16NSObjectProtocol", "UIColor"]
+- !private ["PSo16NSObjectProtocol", "attributedPlaceholder"]
+- ["PSo16NSObjectProtocol", "becomeFirstResponder"]
+- !private ["PSo16NSObjectProtocol", "grayColor"]
+- ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "placeholder"]
+- ["PSo16NSObjectProtocol", "resignFirstResponder"]
+- !private ["PSo16NSObjectProtocol", "textColor"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSo14NSSecureCoding", "grayColor"]
+- !private ["PSo14NSSecureCoding", "init"]
+- !private ["Sq", "deinit"]
+- !private ["PSs12SequenceType", "Key"]
+- !private ["PSs12SequenceType", "Value"]
+- !private ["PSo29UIAccessibilityIdentification", "NSAttributedString"]
+- !private ["PSo29UIAccessibilityIdentification", "NSForegroundColorAttributeName"]
+- !private ["PSo29UIAccessibilityIdentification", "UIColor"]
+- !private ["PSo29UIAccessibilityIdentification", "attributedPlaceholder"]
+- ["PSo29UIAccessibilityIdentification", "becomeFirstResponder"]
+- ["PSo29UIAccessibilityIdentification", "init"]
+- !private ["PSo29UIAccessibilityIdentification", "placeholder"]
+- ["PSo29UIAccessibilityIdentification", "resignFirstResponder"]
+- !private ["PSo29UIAccessibilityIdentification", "textColor"]
+- ["PSo29UIAccessibilityIdentification", ""]
+- !private ["PSo12UIAppearance", "NSAttributedString"]
+- !private ["PSo12UIAppearance", "NSForegroundColorAttributeName"]
+- !private ["PSo12UIAppearance", "UIColor"]
+- !private ["PSo12UIAppearance", "attributedPlaceholder"]
+- ["PSo12UIAppearance", "becomeFirstResponder"]
+- ["PSo12UIAppearance", "init"]
+- !private ["PSo12UIAppearance", "placeholder"]
+- ["PSo12UIAppearance", "resignFirstResponder"]
+- !private ["PSo12UIAppearance", "textColor"]
+- ["PSo12UIAppearance", ""]
+- !private ["PSo21UIAppearanceContainer", "NSAttributedString"]
+- !private ["PSo21UIAppearanceContainer", "NSForegroundColorAttributeName"]
+- !private ["PSo21UIAppearanceContainer", "UIColor"]
+- !private ["PSo21UIAppearanceContainer", "attributedPlaceholder"]
+- ["PSo21UIAppearanceContainer", "becomeFirstResponder"]
+- ["PSo21UIAppearanceContainer", "init"]
+- !private ["PSo21UIAppearanceContainer", "placeholder"]
+- ["PSo21UIAppearanceContainer", "resignFirstResponder"]
+- !private ["PSo21UIAppearanceContainer", "textColor"]
+- ["PSo21UIAppearanceContainer", ""]
+- !private ["CSo7UIColor", "deinit"]
+- !private ["CSo7UIColor", "grayColor"]
+- !private ["CSo9UIControl", "AnyObject"]
+- ["CSo9UIControl", "Bool"]
+- !private ["CSo9UIControl", "NSAttributedString"]
+- !private ["CSo9UIControl", "NSForegroundColorAttributeName"]
+- !private ["CSo9UIControl", "UIColor"]
+- !private ["CSo9UIControl", "attributedPlaceholder"]
+- ["CSo9UIControl", "becomeFirstResponder"]
+- ["CSo9UIControl", "init"]
+- !private ["CSo9UIControl", "placeholder"]
+- ["CSo9UIControl", "resignFirstResponder"]
+- !private ["CSo9UIControl", "textColor"]
+- !private ["PSo17UICoordinateSpace", "NSAttributedString"]
+- !private ["PSo17UICoordinateSpace", "NSForegroundColorAttributeName"]
+- !private ["PSo17UICoordinateSpace", "UIColor"]
+- !private ["PSo17UICoordinateSpace", "attributedPlaceholder"]
+- ["PSo17UICoordinateSpace", "becomeFirstResponder"]
+- ["PSo17UICoordinateSpace", "init"]
+- !private ["PSo17UICoordinateSpace", "placeholder"]
+- ["PSo17UICoordinateSpace", "resignFirstResponder"]
+- !private ["PSo17UICoordinateSpace", "textColor"]
+- ["PSo17UICoordinateSpace", ""]
+- !private ["PSo13UIDynamicItem", "NSAttributedString"]
+- !private ["PSo13UIDynamicItem", "NSForegroundColorAttributeName"]
+- !private ["PSo13UIDynamicItem", "UIColor"]
+- !private ["PSo13UIDynamicItem", "attributedPlaceholder"]
+- ["PSo13UIDynamicItem", "becomeFirstResponder"]
+- ["PSo13UIDynamicItem", "init"]
+- !private ["PSo13UIDynamicItem", "placeholder"]
+- ["PSo13UIDynamicItem", "resignFirstResponder"]
+- !private ["PSo13UIDynamicItem", "textColor"]
+- ["PSo13UIDynamicItem", ""]
+- !private ["PSo18UIFocusEnvironment", "NSAttributedString"]
+- !private ["PSo18UIFocusEnvironment", "NSForegroundColorAttributeName"]
+- !private ["PSo18UIFocusEnvironment", "UIColor"]
+- !private ["PSo18UIFocusEnvironment", "attributedPlaceholder"]
+- ["PSo18UIFocusEnvironment", "becomeFirstResponder"]
+- ["PSo18UIFocusEnvironment", "init"]
+- !private ["PSo18UIFocusEnvironment", "placeholder"]
+- ["PSo18UIFocusEnvironment", "resignFirstResponder"]
+- !private ["PSo18UIFocusEnvironment", "textColor"]
+- ["PSo18UIFocusEnvironment", ""]
+- !private ["PSo10UIKeyInput", "NSAttributedString"]
+- !private ["PSo10UIKeyInput", "NSForegroundColorAttributeName"]
+- !private ["PSo10UIKeyInput", "UIColor"]
+- !private ["PSo10UIKeyInput", "attributedPlaceholder"]
+- ["PSo10UIKeyInput", "becomeFirstResponder"]
+- ["PSo10UIKeyInput", "init"]
+- !private ["PSo10UIKeyInput", "placeholder"]
+- ["PSo10UIKeyInput", "resignFirstResponder"]
+- !private ["PSo10UIKeyInput", "textColor"]
+- ["PSo10UIKeyInput", ""]
+- !private ["CSo11UIResponder", "AnyObject"]
+- ["CSo11UIResponder", "Bool"]
+- !private ["CSo11UIResponder", "NSAttributedString"]
+- !private ["CSo11UIResponder", "NSForegroundColorAttributeName"]
+- !private ["CSo11UIResponder", "UIColor"]
+- !private ["CSo11UIResponder", "attributedPlaceholder"]
+- ["CSo11UIResponder", "becomeFirstResponder"]
+- ["CSo11UIResponder", "init"]
+- !private ["CSo11UIResponder", "placeholder"]
+- ["CSo11UIResponder", "resignFirstResponder"]
+- !private ["CSo11UIResponder", "textColor"]
+- !private ["CSo11UITextField", "AnyObject"]
+- ["CSo11UITextField", "Bool"]
+- !private ["CSo11UITextField", "NSAttributedString"]
+- !private ["CSo11UITextField", "NSForegroundColorAttributeName"]
+- !private ["CSo11UITextField", "UIColor"]
+- !private ["CSo11UITextField", "attributedPlaceholder"]
+- ["CSo11UITextField", "becomeFirstResponder"]
+- ["CSo11UITextField", "init"]
+- !private ["CSo11UITextField", "placeholder"]
+- ["CSo11UITextField", "resignFirstResponder"]
+- !private ["CSo11UITextField", "textColor"]
+- ["CSo11UITextField", ""]
+- !private ["PSo11UITextInput", "NSAttributedString"]
+- !private ["PSo11UITextInput", "NSForegroundColorAttributeName"]
+- !private ["PSo11UITextInput", "UIColor"]
+- !private ["PSo11UITextInput", "attributedPlaceholder"]
+- ["PSo11UITextInput", "becomeFirstResponder"]
+- ["PSo11UITextInput", "init"]
+- !private ["PSo11UITextInput", "placeholder"]
+- ["PSo11UITextInput", "resignFirstResponder"]
+- !private ["PSo11UITextInput", "textColor"]
+- ["PSo11UITextInput", ""]
+- !private ["PSo17UITextInputTraits", "NSAttributedString"]
+- !private ["PSo17UITextInputTraits", "NSForegroundColorAttributeName"]
+- !private ["PSo17UITextInputTraits", "UIColor"]
+- !private ["PSo17UITextInputTraits", "attributedPlaceholder"]
+- ["PSo17UITextInputTraits", "becomeFirstResponder"]
+- ["PSo17UITextInputTraits", "init"]
+- !private ["PSo17UITextInputTraits", "placeholder"]
+- ["PSo17UITextInputTraits", "resignFirstResponder"]
+- !private ["PSo17UITextInputTraits", "textColor"]
+- ["PSo17UITextInputTraits", ""]
+- !private ["PSo18UITraitEnvironment", "NSAttributedString"]
+- !private ["PSo18UITraitEnvironment", "NSForegroundColorAttributeName"]
+- !private ["PSo18UITraitEnvironment", "UIColor"]
+- !private ["PSo18UITraitEnvironment", "attributedPlaceholder"]
+- ["PSo18UITraitEnvironment", "becomeFirstResponder"]
+- ["PSo18UITraitEnvironment", "init"]
+- !private ["PSo18UITraitEnvironment", "placeholder"]
+- ["PSo18UITraitEnvironment", "resignFirstResponder"]
+- !private ["PSo18UITraitEnvironment", "textColor"]
+- ["PSo18UITraitEnvironment", ""]
+- !private ["CSo6UIView", "AnyObject"]
+- ["CSo6UIView", "Bool"]
+- !private ["CSo6UIView", "NSAttributedString"]
+- !private ["CSo6UIView", "NSForegroundColorAttributeName"]
+- !private ["CSo6UIView", "UIColor"]
+- !private ["CSo6UIView", "attributedPlaceholder"]
+- ["CSo6UIView", "becomeFirstResponder"]
+- ["CSo6UIView", "init"]
+- !private ["CSo6UIView", "placeholder"]
+- ["CSo6UIView", "resignFirstResponder"]
+- !private ["CSo6UIView", "textColor"]
+- !private ["C11WBBaiSiDemo10WBTextView", "AnyObject"]
+- ["C11WBBaiSiDemo10WBTextView", "Bool"]
+- !private ["C11WBBaiSiDemo10WBTextView", "NSAttributedString"]
+- !private ["C11WBBaiSiDemo10WBTextView", "NSForegroundColorAttributeName"]
+- !private ["C11WBBaiSiDemo10WBTextView", "UIColor"]
+- !private ["C11WBBaiSiDemo10WBTextView", "attributedPlaceholder"]
+- ["C11WBBaiSiDemo10WBTextView", "becomeFirstResponder"]
+- ["C11WBBaiSiDemo10WBTextView", "deinit"]
+- ["C11WBBaiSiDemo10WBTextView", "init"]
+- !private ["C11WBBaiSiDemo10WBTextView", "placeholder"]
+- ["C11WBBaiSiDemo10WBTextView", "resignFirstResponder"]
+- !private ["C11WBBaiSiDemo10WBTextView", "textColor"]
+- !private ["PSs24_ColorLiteralConvertible", "grayColor"]
+- !private ["PSs21_ObjectiveCBridgeable", "Key"]
+- !private ["PSs21_ObjectiveCBridgeable", "Value"]
+- !private ["PSs12_Reflectable", "Key"]
+- !private ["PSs12_Reflectable", "NSAttributedString"]
+- !private ["PSs12_Reflectable", "NSForegroundColorAttributeName"]
+- !private ["PSs12_Reflectable", "UIColor"]
+- !private ["PSs12_Reflectable", "Value"]
+- !private ["PSs12_Reflectable", "attributedPlaceholder"]
+- ["PSs12_Reflectable", "becomeFirstResponder"]
+- ["PSs12_Reflectable", "init"]
+- !private ["PSs12_Reflectable", "placeholder"]
+- ["PSs12_Reflectable", "resignFirstResponder"]
+- !private ["PSs12_Reflectable", "textColor"]
+- ["PSs12_Reflectable", ""]
+depends-nominal:
+- "PSs9AnyObject"
+- "PSs11CVarArgType"
+- !private "PSs14CollectionType"
+- !private "PSs28CustomDebugStringConvertible"
+- "PSs23CustomStringConvertible"
+- !private "VSs10Dictionary"
+- !private "PSs28DictionaryLiteralConvertible"
+- "PSs9Equatable"
+- "PSs8Hashable"
+- !private "PSs9Indexable"
+- !private "CSo18NSAttributedString"
+- "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- !private "PSo16NSMutableCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- !private "Sq"
+- !private "PSs12SequenceType"
+- "PSo29UIAccessibilityIdentification"
+- "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- !private "CSo7UIColor"
+- "CSo9UIControl"
+- "PSo17UICoordinateSpace"
+- "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- "PSo10UIKeyInput"
+- "CSo11UIResponder"
+- "CSo11UITextField"
+- "PSo11UITextInput"
+- "PSo17UITextInputTraits"
+- "PSo18UITraitEnvironment"
+- "CSo6UIView"
+- "C11WBBaiSiDemo10WBTextView"
+- !private "PSs24_ColorLiteralConvertible"
+- !private "PSs21_ObjectiveCBridgeable"
+- "PSs12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/Swift.swiftmodule"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/WBBaiSiDemo/WBBaiSiDemo-Bridging-Header.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/WBBaiSiDemo/SVProgressHUD/SVProgressHUD.h"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/CoreImage.swiftmodule"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Pods/DACircularProgress/DACircularProgress/DALabeledCircularProgressView.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Pods/DACircularProgress/DACircularProgress/DACircularProgressView.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/i386.swiftmodule"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/SwiftyJSON.framework/Headers/SwiftyJSON-umbrella.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/SwiftyJSON.framework/Modules/module.modulemap"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/Kingfisher.framework/Modules/Kingfisher.swiftmodule/i386.swiftmodule"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/Kingfisher.framework/Headers/Kingfisher-Swift.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/Kingfisher.framework/Headers/Kingfisher.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/Kingfisher.framework/Headers/Kingfisher-umbrella.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/Kingfisher.framework/Modules/module.modulemap"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/Alamofire.framework/Modules/Alamofire.swiftmodule/i386.swiftmodule"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/Alamofire.framework/Modules/module.modulemap"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefresh.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefreshNormalHeader.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefreshStateHeader.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefreshGifHeader.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefreshBackNormalFooter.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefreshBackStateFooter.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefreshBackGifFooter.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefreshAutoNormalFooter.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefreshAutoStateFooter.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefreshAutoGifFooter.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefreshHeader.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefreshBackFooter.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/UIScrollView+MJRefresh.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/UIScrollView+MJExtension.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/UIView+MJExtension.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefreshConst.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefreshComponent.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefreshFooter.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefreshAutoFooter.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefresh-umbrella.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Modules/module.modulemap"
+interface-hash: "4296a2eb2dba1d1406fa68535d620e0b"

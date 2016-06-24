@@ -1,0 +1,15 @@
+version: "Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81)"
+options: "7ccfeb68e03b00d959d85dd751a654b3"
+build_time: [508944313, 396179000]
+inputs:
+  "/Users/kengsir/Desktop/WBBaiSiDemo-master/Pods/Kingfisher/Sources/KingfisherManager.swift": [507847958, 0]
+  "/Users/kengsir/Desktop/WBBaiSiDemo-master/Pods/Kingfisher/Sources/ImageCache.swift": [507847958, 0]
+  "/Users/kengsir/Desktop/WBBaiSiDemo-master/Pods/Kingfisher/Sources/String+MD5.swift": [507847958, 0]
+  "/Users/kengsir/Desktop/WBBaiSiDemo-master/Pods/Kingfisher/Sources/UIButton+Kingfisher.swift": [507847958, 0]
+  "/Users/kengsir/Desktop/WBBaiSiDemo-master/Pods/Kingfisher/Sources/ImageView+Kingfisher.swift": [507847958, 0]
+  "/Users/kengsir/Desktop/WBBaiSiDemo-master/Pods/Kingfisher/Sources/Resource.swift": [507847958, 0]
+  "/Users/kengsir/Desktop/WBBaiSiDemo-master/Pods/Kingfisher/Sources/ImageDownloader.swift": [507847958, 0]
+  "/Users/kengsir/Desktop/WBBaiSiDemo-master/Pods/Kingfisher/Sources/Image.swift": [507847958, 0]
+  "/Users/kengsir/Desktop/WBBaiSiDemo-master/Pods/Kingfisher/Sources/ImageTransition.swift": [507847958, 0]
+  "/Users/kengsir/Desktop/WBBaiSiDemo-master/Pods/Kingfisher/Sources/ThreadHelper.swift": [507847958, 0]
+  "/Users/kengsir/Desktop/WBBaiSiDemo-master/Pods/Kingfisher/Sources/KingfisherOptionsInfo.swift": [507847958, 0]

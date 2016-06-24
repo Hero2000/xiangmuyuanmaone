@@ -1,0 +1,219 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "HTTPTool"
+provides-nominal:
+- "C11WBBaiSiDemo8HTTPTool"
+provides-member:
+- ["C11WBBaiSiDemo8HTTPTool", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "String"
+- !private "BooleanLiteralType"
+- !private "Alamofire"
+- "AnyObject"
+- "JSON"
+- "NSError"
+- "HTTPTool"
+- "NSObject"
+- !private "UIApplication"
+- "Void"
+depends-member:
+- !private ["PSs9AnyObject", "Alamofire"]
+- !private ["PSs9AnyObject", "JSON"]
+- !private ["PSs9AnyObject", "UIApplication"]
+- ["PSs9AnyObject", "getData"]
+- ["PSs9AnyObject", "init"]
+- !private ["PSs9AnyObject", "networkActivityIndicatorVisible"]
+- !private ["PSs9AnyObject", "responseJSON"]
+- !private ["PSs9AnyObject", "sharedApplication"]
+- ["PSs9AnyObject", ""]
+- !private ["PSs23ArrayLiteralConvertible", "init"]
+- !private ["PSs25BooleanLiteralConvertible", "init"]
+- !private ["PSs11BooleanType", "init"]
+- !private ["PSs11CVarArgType", "Alamofire"]
+- !private ["PSs11CVarArgType", "JSON"]
+- !private ["PSs11CVarArgType", "UIApplication"]
+- ["PSs11CVarArgType", "getData"]
+- ["PSs11CVarArgType", "init"]
+- !private ["PSs11CVarArgType", "networkActivityIndicatorVisible"]
+- !private ["PSs11CVarArgType", "sharedApplication"]
+- ["PSs11CVarArgType", ""]
+- !private ["PSs14CollectionType", "init"]
+- !private ["PSs10Comparable", "init"]
+- !private ["PSs28CustomDebugStringConvertible", "Some"]
+- !private ["PSs28CustomDebugStringConvertible", "error"]
+- !private ["PSs28CustomDebugStringConvertible", "init"]
+- !private ["PSs28CustomDebugStringConvertible", "responseJSON"]
+- !private ["PSs28CustomDebugStringConvertible", "result"]
+- !private ["PSs28CustomDebugStringConvertible", "value"]
+- !private ["PSs23CustomStringConvertible", "Alamofire"]
+- !private ["PSs23CustomStringConvertible", "JSON"]
+- !private ["PSs23CustomStringConvertible", "UIApplication"]
+- !private ["PSs23CustomStringConvertible", "error"]
+- ["PSs23CustomStringConvertible", "getData"]
+- ["PSs23CustomStringConvertible", "init"]
+- !private ["PSs23CustomStringConvertible", "networkActivityIndicatorVisible"]
+- !private ["PSs23CustomStringConvertible", "responseJSON"]
+- !private ["PSs23CustomStringConvertible", "result"]
+- !private ["PSs23CustomStringConvertible", "sharedApplication"]
+- !private ["PSs23CustomStringConvertible", "value"]
+- ["PSs23CustomStringConvertible", ""]
+- !private ["PSs28DictionaryLiteralConvertible", "init"]
+- !private ["PSs9Equatable", "Alamofire"]
+- !private ["PSs9Equatable", "GET"]
+- !private ["PSs9Equatable", "JSON"]
+- !private ["PSs9Equatable", "UIApplication"]
+- ["PSs9Equatable", "getData"]
+- ["PSs9Equatable", "init"]
+- !private ["PSs9Equatable", "networkActivityIndicatorVisible"]
+- !private ["PSs9Equatable", "sharedApplication"]
+- ["PSs9Equatable", ""]
+- !private ["PSs41ExtendedGraphemeClusterLiteralConvertible", "init"]
+- !private ["PSs23FloatLiteralConvertible", "init"]
+- !private ["C11WBBaiSiDemo8HTTPTool", "Alamofire"]
+- ["C11WBBaiSiDemo8HTTPTool", "AnyObject"]
+- ["C11WBBaiSiDemo8HTTPTool", "FailBlock"]
+- ["C11WBBaiSiDemo8HTTPTool", "JSON"]
+- ["C11WBBaiSiDemo8HTTPTool", "NSError"]
+- ["C11WBBaiSiDemo8HTTPTool", "String"]
+- ["C11WBBaiSiDemo8HTTPTool", "SuccessfulBlock"]
+- !private ["C11WBBaiSiDemo8HTTPTool", "UIApplication"]
+- ["C11WBBaiSiDemo8HTTPTool", "Void"]
+- ["C11WBBaiSiDemo8HTTPTool", "deinit"]
+- ["C11WBBaiSiDemo8HTTPTool", "getData"]
+- ["C11WBBaiSiDemo8HTTPTool", "init"]
+- !private ["PSs8Hashable", "Alamofire"]
+- !private ["PSs8Hashable", "GET"]
+- !private ["PSs8Hashable", "JSON"]
+- !private ["PSs8Hashable", "UIApplication"]
+- ["PSs8Hashable", "getData"]
+- ["PSs8Hashable", "init"]
+- !private ["PSs8Hashable", "networkActivityIndicatorVisible"]
+- !private ["PSs8Hashable", "sharedApplication"]
+- ["PSs8Hashable", ""]
+- !private ["PSs9Indexable", "init"]
+- !private ["PSs25IntegerLiteralConvertible", "init"]
+- !private ["V10SwiftyJSON4JSON", "init"]
+- !private ["O9Alamofire6Method", "GET"]
+- !private ["CSo8NSObject", "Alamofire"]
+- ["CSo8NSObject", "AnyObject"]
+- ["CSo8NSObject", "FailBlock"]
+- ["CSo8NSObject", "JSON"]
+- ["CSo8NSObject", "NSError"]
+- ["CSo8NSObject", "String"]
+- ["CSo8NSObject", "SuccessfulBlock"]
+- !private ["CSo8NSObject", "UIApplication"]
+- ["CSo8NSObject", "Void"]
+- ["CSo8NSObject", "getData"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "networkActivityIndicatorVisible"]
+- !private ["CSo8NSObject", "sharedApplication"]
+- ["CSo8NSObject", ""]
+- !private ["PSo16NSObjectProtocol", "Alamofire"]
+- !private ["PSo16NSObjectProtocol", "JSON"]
+- !private ["PSo16NSObjectProtocol", "UIApplication"]
+- ["PSo16NSObjectProtocol", "getData"]
+- ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "networkActivityIndicatorVisible"]
+- !private ["PSo16NSObjectProtocol", "sharedApplication"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSs21NilLiteralConvertible", "Some"]
+- !private ["PSs21NilLiteralConvertible", "init"]
+- !private ["Sq", "Some"]
+- !private ["PSs16RawRepresentable", "GET"]
+- !private ["PSs16RawRepresentable", "init"]
+- !private ["C9Alamofire7Request", "responseJSON"]
+- !private ["V9Alamofire8Response", "result"]
+- !private ["O9Alamofire6Result", "error"]
+- !private ["O9Alamofire6Result", "value"]
+- !private ["PSs12SequenceType", "init"]
+- !private ["PSs24StringLiteralConvertible", "init"]
+- !private ["CSo13UIApplication", "networkActivityIndicatorVisible"]
+- !private ["CSo13UIApplication", "sharedApplication"]
+- !private ["CSo11UIResponder", "networkActivityIndicatorVisible"]
+- !private ["CSo11UIResponder", "sharedApplication"]
+- !private ["PSs31UnicodeScalarLiteralConvertible", "init"]
+- !private ["PSs12_Reflectable", "Some"]
+depends-nominal:
+- "PSs9AnyObject"
+- !private "PSs23ArrayLiteralConvertible"
+- !private "PSs25BooleanLiteralConvertible"
+- !private "PSs11BooleanType"
+- "PSs11CVarArgType"
+- !private "PSs14CollectionType"
+- !private "PSs10Comparable"
+- !private "PSs28CustomDebugStringConvertible"
+- "PSs23CustomStringConvertible"
+- !private "PSs28DictionaryLiteralConvertible"
+- "PSs9Equatable"
+- !private "PSs41ExtendedGraphemeClusterLiteralConvertible"
+- !private "PSs23FloatLiteralConvertible"
+- "C11WBBaiSiDemo8HTTPTool"
+- "PSs8Hashable"
+- !private "PSs9Indexable"
+- !private "PSs25IntegerLiteralConvertible"
+- !private "V10SwiftyJSON4JSON"
+- !private "O9Alamofire6Method"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSs21NilLiteralConvertible"
+- !private "Sq"
+- !private "PSs16RawRepresentable"
+- !private "C9Alamofire7Request"
+- !private "V9Alamofire8Response"
+- !private "O9Alamofire6Result"
+- !private "PSs12SequenceType"
+- !private "PSs24StringLiteralConvertible"
+- !private "CSo13UIApplication"
+- !private "CSo11UIResponder"
+- !private "PSs31UnicodeScalarLiteralConvertible"
+- !private "PSs12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/Swift.swiftmodule"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/WBBaiSiDemo/WBBaiSiDemo-Bridging-Header.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/WBBaiSiDemo/SVProgressHUD/SVProgressHUD.h"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/CoreImage.swiftmodule"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Pods/DACircularProgress/DACircularProgress/DALabeledCircularProgressView.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Pods/DACircularProgress/DACircularProgress/DACircularProgressView.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/i386.swiftmodule"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/SwiftyJSON.framework/Headers/SwiftyJSON-umbrella.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/SwiftyJSON.framework/Modules/module.modulemap"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/Kingfisher.framework/Modules/Kingfisher.swiftmodule/i386.swiftmodule"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/Kingfisher.framework/Headers/Kingfisher-Swift.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/Kingfisher.framework/Headers/Kingfisher.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/Kingfisher.framework/Headers/Kingfisher-umbrella.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/Kingfisher.framework/Modules/module.modulemap"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/Alamofire.framework/Modules/Alamofire.swiftmodule/i386.swiftmodule"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/Alamofire.framework/Modules/module.modulemap"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefresh.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefreshNormalHeader.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefreshStateHeader.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefreshGifHeader.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefreshBackNormalFooter.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefreshBackStateFooter.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefreshBackGifFooter.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefreshAutoNormalFooter.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefreshAutoStateFooter.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefreshAutoGifFooter.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefreshHeader.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefreshBackFooter.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/UIScrollView+MJRefresh.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/UIScrollView+MJExtension.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/UIView+MJExtension.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefreshConst.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefreshComponent.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefreshFooter.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefreshAutoFooter.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Headers/MJRefresh-umbrella.h"
+- "/Users/kengsir/Desktop/WBBaiSiDemo-master/Build/Products/Debug-iphonesimulator/MJRefresh.framework/Modules/module.modulemap"
+interface-hash: "35606cdb0f832d74a55af9b05a4f1fa7"

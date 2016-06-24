@@ -1,0 +1,65 @@
+//
+//  XLWB.pch
+//  WB
+//
+//  Created by 刘生文 on 13/3/16.
+//  Copyright © 2013年 刘生文. All rights reserved.
+//
+
+#import "UIView+Frame.h"
+#import "UIImage+Image.h"
+
+// 通知名称
+#define switchRootVC @"switchRootVC"
+#define fontSizeChangeNote @"fontSizeChangeNote"
+
+/*settting*/
+#define CHUserDefaults [NSUserDefaults standardUserDefaults]
+#define CHFontSizeKey @"字号大小"
+#define CHSelUploadKey @"selDownloadKey"
+#define CHSelDownloadKey @"selDownloadKey"
+
+// 设置为主窗口
+#define CHKeyWindow [UIApplication sharedApplication].keyWindow
+// 屏幕宽度、高度、size
+#define SCREENW  [UIScreen mainScreen].bounds.size.width;
+#define SCREENH  [UIScreen mainScreen].bounds.size.height;
+
+
+// 网络请求所使用的参数
+#define CHBaseUrl  @"https://api.weibo.com/oauth2/authorize"
+#define CHClient_id   @"3863118655"
+#define CHRedirect_uri   @"http://www.baidu.com"
+#define CHClient_secret   @"b94c088ad2cdae8c3b9641852359d28c"
+
+// 设置StatusFrame的布局
+#define CHStatusCellMargin 10
+#define CHNameFont [UIFont systemFontOfSize:13]
+#define CHTimeFont [UIFont systemFontOfSize:12]
+#define CHSourceFont CHTimeFont
+#define CHTextFont [UIFont systemFontOfSize:15]
+#define CHScreenW [UIScreen mainScreen].bounds.size.width
+
+// 快速创建颜色
+#define CHColor(r, g, b, a) [UIColor colorWithRed:(r)/255.0 green:(g)/255.0 blue:(b)/255.0 alpha:(a)/255.0];
+// 随机颜色
+#define CHRandomColor CHColor(arc4random_uniform(255), arc4random_uniform(255), arc4random_uniform(255), arc4random_uniform(255))
+
+
+#ifndef XLWB_pch
+#define XLWB_pch
+
+// ...表示宏定义的可变参数
+// __VA_ARGS__:表示函数里面的可变参数
+#ifdef DEBUG // 调试
+
+#define CHLog(...) NSLog(__VA_ARGS__)
+#define DDLog() NSLog(@"%d,%s",__LINE__,__FUNCTION__)
+
+#else // 发布
+
+#define CHLog(...)
+#define DDLog()
+
+#endif
+#endif /* XLWB_pch */
